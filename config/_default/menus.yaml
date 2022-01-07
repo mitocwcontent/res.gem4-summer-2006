@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-60e9d57334b74832a4484c8aaa5598c5
+  name: "GEM\u2074 Online"
+  url: https://ocw.mit.edu/ans7870/GEM4/index.html
+  weight: 1000
